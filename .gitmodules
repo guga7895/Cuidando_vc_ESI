@@ -1,0 +1,18 @@
+[submodule "Cuidando_do_meu_bairro"]
+	path = Cuidando_do_meu_bairro
+	url = https://github.com/guga7895/Cuidando_do_meu_bairro
+[submodule "Cochicho_ESI"]
+	path = Cochicho_ESI
+	url = https://github.com/guga7895/Cochicho_ESI.git
+[submodule "tagarela_ESI"]
+	path = tagarela_ESI
+	url = https://github.com/guga7895/tagarela_ESI.git
+[submodule "viralata_ESI"]
+	path = viralata_ESI
+	url = https://github.com/guga7895/viralata_ESI.git
+[submodule "viratoken_ESI"]
+	path = viratoken_ESI
+	url = https://github.com/guga7895/viratoken_ESI.git
+[submodule "esic_livre_ESI"]
+	path = esic_livre_ESI
+	url = https://github.com/guga7895/esic_livre_ESI.git
