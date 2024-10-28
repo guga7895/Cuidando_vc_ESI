@@ -16,3 +16,6 @@
 [submodule "esic_livre_ESI"]
 	path = esic_livre_ESI
 	url = https://github.com/guga7895/esic_livre_ESI.git
+[submodule "cuidando_utils_ESI"]
+	path = cuidando_utils_ESI
+	url = https://github.com/guga7895/cuidando_utils_ESI.git
