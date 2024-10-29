@@ -1,4 +1,4 @@
-Quando /eu pressiono "Aprenda " no corpo da página/ do
+Quando /eu pressiono "Aprenda " no cabeçalho/ do
     find('#navbar > ul > li:nth-child(2) > a').click
 end
   
