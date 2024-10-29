@@ -22,3 +22,5 @@ gem "rspec-expectations", "3.13.3"
 gem "rspec-mocks", "3.13.2"
 gem "rspec-support", "3.13.1"
 gem "xpath", "3.2.0"
+gem 'vue', '~> 0.2.0'
+gem 'rails_helper', '~> 2.2', '>= 2.2.2'

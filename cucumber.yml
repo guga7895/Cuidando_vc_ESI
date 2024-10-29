@@ -3,3 +3,5 @@ default: --format pretty
 localhost: --format pretty --require testes_cucumber/localhost/support/env.rb --require testes_cucumber/localhost/step_definitions testes_cucumber/localhost
 
 cuidando_vc: --format pretty --require testes_cucumber/cuidando_vc/support/env.rb --require testes_cucumber/cuidando_vc/step_definitions testes_cucumber/cuidando_vc
+
+caract: --format pretty --require testes_caracterizacao/support/env.rb --require testes_caracterizacao/step_definitions testes_caracterizacao
