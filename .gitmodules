@@ -19,3 +19,6 @@
 [submodule "website-vuejs_ESI"]
 	path = website-vuejs_ESI
 	url = https://github.com/guga7895/website-vuejs_ESI.git
+[submodule "gastos-abertos_ESI"]
+	path = gastos-abertos_ESI
+	url = https://github.com/guga7895/gastos-abertos_ESI
