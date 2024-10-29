@@ -1,6 +1,3 @@
-[submodule "Cuidando_do_meu_bairro"]
-	path = Cuidando_do_meu_bairro
-	url = https://github.com/guga7895/Cuidando_do_meu_bairro
 [submodule "Cochicho_ESI"]
 	path = Cochicho_ESI
 	url = https://github.com/guga7895/Cochicho_ESI.git
@@ -19,3 +16,6 @@
 [submodule "cuidando_utils_ESI"]
 	path = cuidando_utils_ESI
 	url = https://github.com/guga7895/cuidando_utils_ESI.git
+[submodule "website-vuejs_ESI"]
+	path = website-vuejs_ESI
+	url = https://github.com/guga7895/website-vuejs_ESI.git
