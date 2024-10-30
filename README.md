@@ -14,6 +14,17 @@ Atualmente, estamos rodando o repositório "website-vuejs_ESI". Para tal, os Git
 ## Rodar Testes Cucumber
 
 Para rodar os testes cucumber locais (no localhost), utilizar: 
+
+``` 
+cd website-vuejs_ESI```
+```
+```
+npm i 
+```
+```
+npm run serve
+```
+Rode um terminal do repositório-pai(Cuidando_vc_ESI) e digite:
 ```
 cucumber -p localhost
 ```
