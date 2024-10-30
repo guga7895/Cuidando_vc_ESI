@@ -36,17 +36,15 @@ Rode um terminal do repositório-pai(Cuidando_vc_ESI) e digite:
 cucumber -p localhost
 ```
 
-## Setup do projeto
-```
-1.0 Para realizar o setup do projeto, acesse o repositório "website-vuejs_ESI" e dê o comando npm i.
-
-2.0 Realize o comando gem install bundler.
-
-3.0 Realize bundle install
-```
-
 ## Compilação do website localmente
-```
-Para realizar o setup do projeto, acesse o repositório "website-vuejs_ESI" e dê o comando npm run serve.
-```
 
+Para realizar o setup do projeto local, faça:
+```
+cd website-vuejs_ESI  dê o comando npm run serve.
+```
+```
+npm i
+```
+```
+npm run serve
+```
