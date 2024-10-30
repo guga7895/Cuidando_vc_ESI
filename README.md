@@ -40,7 +40,7 @@ cucumber -p localhost
 
 Para realizar o setup do projeto local, faça:
 ```
-cd website-vuejs_ESI  dê o comando npm run serve.
+cd website-vuejs_ESI
 ```
 ```
 npm i
