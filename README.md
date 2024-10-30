@@ -11,31 +11,6 @@ Atualmente, estamos rodando o repositório "website-vuejs_ESI". Logo, as badges 
 Atualmente, estamos rodando o repositório "website-vuejs_ESI". Para tal, os GitHub Actions para rodar o projeto se encontram no repositório citado. Abaixo está a badge que demonstra se o comando "npm run dev" está rodando o repositório localmente correto.
 [![Rodar projeto com npm](https://github.com/guga7895/Cuidando_do_meu_bairro/actions/workflows/github-actions-run.yml/badge.svg?branch=master)](https://github.com/guga7895/Cuidando_do_meu_bairro/actions/workflows/github-actions-run.yml)
 
-## Rodar Testes Cucumber
-
-### Testes no website no ar
-Para rodar os testes cucumber no website funcionando (cuidando.vc), utilizar:
-```
-cucumber -p cuidando_vc
-```
-
-### Testes locais
-Para rodar os testes cucumber locais (no localhost), utilizar: 
-
-``` 
-cd website-vuejs_ESI
-```
-```
-npm i 
-```
-```
-npm run serve
-```
-Rode um terminal do repositório-pai(Cuidando_vc_ESI) e digite:
-```
-cucumber -p localhost
-```
-
 ## Compilação do website localmente
 
 Para realizar o setup do projeto local, faça:
