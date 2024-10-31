@@ -11,6 +11,20 @@ Atualmente, estamos rodando o repositório "website-vuejs_ESI". Logo, as badges 
 Atualmente, estamos rodando o repositório "website-vuejs_ESI". Para tal, os GitHub Actions para rodar o projeto se encontram no repositório citado. Abaixo está a badge que demonstra se o comando "npm run dev" está rodando o repositório localmente correto.
 [![Rodar projeto com npm](https://github.com/guga7895/Cuidando_do_meu_bairro/actions/workflows/github-actions-run.yml/badge.svg?branch=master)](https://github.com/guga7895/Cuidando_do_meu_bairro/actions/workflows/github-actions-run.yml)
 
+## Rodar Testes de Caracterização
+
+```
+cd ./website-vuejs_ESI
+```
+
+```
+npm i
+```
+
+```
+npm run teste
+```
+
 ## Rodar Testes Cucumber
 
 ## Testes no website no ar
