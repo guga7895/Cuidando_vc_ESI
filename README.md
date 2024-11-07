@@ -1,4 +1,8 @@
-# website2
+# ESI
+
+## Integrantes
+- Gustavo Ahmad Cassiari Chouman NºUSP: 13830870
+- Vitor da Fonseca Rodrigues NºUSP: 13838986
 
 ## CodeClimate Badge
 Atualmente, estamos rodando o repositório "website-vuejs_ESI". Logo, as badges são referentes ao repositório citado.
