@@ -7,7 +7,7 @@
 
 ## Para clonar o repositório
 
-git clone --recurse-submodules https://github.com/guga7895/Cuidando_vc_ESI.git
+```git clone --recurse-submodules https://github.com/guga7895/Cuidando_vc_ESI.git```
 
 ## CodeClimate Badge
 Atualmente, estamos rodando o repositório "website-vuejs_ESI". Logo, as badges são referentes ao repositório citado.
