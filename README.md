@@ -1,10 +1,14 @@
 # ESI
 
+##Pré-requisitos
+- Ruby 3.3.5
+  
 ## Integrantes
 - Gustavo Ahmad Cassiari Chouman NºUSP: 13830870
 - Vitor da Fonseca Rodrigues NºUSP: 13838986
 - Felipe Cavalcante Lins NºUSP: 13673256
-
+- Henrique Lopes Nicoletti NºUSP: 12745636
+- Kelvin Marcelo Santos Callisaya NºUSP: 11797063
 ## Para clonar o repositório
 
 ```git clone --recurse-submodules https://github.com/guga7895/Cuidando_vc_ESI.git```
