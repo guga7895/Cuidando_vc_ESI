@@ -3,6 +3,7 @@
 ##Pré-requisitos
 - Ruby 3.3.5
 - Cucumber 9.2.0
+- Node 14
   
 ## Integrantes
 - Gustavo Ahmad Cassiari Chouman NºUSP: 13830870
