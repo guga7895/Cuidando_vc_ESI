@@ -13,3 +13,8 @@ Quando eu preencho "Nome de usuário" com "FelipeTeste1"
 E eu preencho "Senha" com "12345"
 E eu pressiono "Entrar" no formulario de login
 Entao eu deveria ver "FelipeTeste1" dentro do css "#navbar > ul > li:nth-child(5) > button"
+
+Cenario: Abrir a pagina de registrar na página inicial
+Dado que eu estou no formulario de login
+Quando eu clico em "Crie uma conta" no formulario
+Entao eu deveria ver "Confirmar Senha" dentro do css "#modal-dialog"

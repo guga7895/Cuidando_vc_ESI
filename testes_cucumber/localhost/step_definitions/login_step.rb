@@ -28,6 +28,10 @@ Quando /eu pressiono "Entrar" no formulario de login/ do
   end
 end
 
+Quando /eu clico em "Crie uma conta" no formulario/ do
+  find('#modal-dialog > div > div:nth-child(2) > div > form > div.mt-3.flex.justify-between.text-sm.font-medium.text-neutral-base > div.text-sm.font-medium.text-neutral-base > a').click
+end
+
 Entao /eu deveria ver "(.*)" dentro do css "(.*)"/ do |texto, css|
   find(css).assert_text(texto)
 end
