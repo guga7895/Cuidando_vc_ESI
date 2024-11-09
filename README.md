@@ -44,6 +44,9 @@ npm run test
 ## Testes no website no ar
 Para rodar os testes cucumber no website funcionando (cuidando.vc), utilizar:
 ```
+bundle install
+```
+```
 cucumber -p cuidando_vc
 ```
 
@@ -60,6 +63,9 @@ npm i
 npm run serve
 ```
 Rode um terminal do repositório-pai(Cuidando_vc_ESI) e digite:
+```
+bundle install
+```
 ```
 cucumber -p localhost
 ```
